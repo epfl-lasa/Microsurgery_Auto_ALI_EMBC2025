@@ -1,0 +1,4 @@
+batch_size: 1
+dataset_path: /home/luyin/Desktop/ly_torch/ly/scripts/Image_Processing/contrast/dataset/5_fold_cross/fold_5
+num_classes: 3
+train_epoch: 50

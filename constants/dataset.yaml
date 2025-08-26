@@ -1,0 +1,7 @@
+# Video to clips/imgs
+video_folder: '/media/luyin/Elements/Cluj Dec 2023/Microscope'
+n_np_random_seed: 42
+n_frames_per_clip: 128
+n_sample_frame_per_video: 100
+
+# Training

@@ -1,0 +1,30 @@
+# Core
+numpy>=1.24
+pandas>=1.5
+scipy>=1.10
+scikit-learn>=1.2
+
+# Plotting / viz
+matplotlib>=3.7
+seaborn>=0.12
+plotly>=5.20
+
+# Images & video
+Pillow>=10.0
+opencv-python>=4.8
+
+# Deep learning
+# Install torch/torchvision using the official index for your CUDA version (see README)
+# torch
+# torchvision
+pytorch-lightning>=2.2
+torchmetrics>=1.3
+transformers>=4.40
+efficientnet-pytorch>=0.7.1
+
+# COCO tools (wheels available on Linux/macOS; on some systems, you may need build tools)
+pycocotools>=2.0.7
+
+# Utilities
+pyyaml>=6.0.1
+cosine-annealing-warmup>=0.1.0

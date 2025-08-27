@@ -34,8 +34,8 @@ Figures and visual examples are provided in the [`imgs/`](imgs/) folder.
 
 ## Data
 
-- 50 high quality anastomosis images with annotations
-- Input datasets should follow **COCO format** with `_annotations.coco.json`.  
+- 50 high quality anastomosis images with annotations.
+- Download Images, annotation, visualization, and model weight available at [Drive](https://drive.google.com/drive/folders/14iLBSv3ldHFQHMdnM4sWO0vcO0yA_BDF?usp=sharing)
 - Expected folder layout:
 
 ```
